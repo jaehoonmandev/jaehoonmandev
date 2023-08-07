@@ -15,11 +15,11 @@
 
 ### Skill 💪
 <table >
-    <tbody>
+    <tbody style="background-color: white">
         <tr>
             <td>
-                <h3 align="center">Backend</h3>        
-                <div align="center" dir="auto"> 
+                <h3 align="center" style="color: black; margin-top: 0px">Backend</h3>        
+                <div align="center" style="background-color: rgba(234, 234, 234, 0.1);"> 
                     <a href="https://www.flaticon.com/kr/free-icons/" title="자바 아이콘" target="_blank">
                         <img src="icons/back/java.png" height="50"/>
                     </a>
@@ -32,7 +32,7 @@
                 </div>
             </td>      
             <td>
-                <h3 align="center" >Frontend</h3>        
+                <h3 align="center" style="color: black; margin-top: 0px">Frontend</h3>        
                 <div align="center" dir="auto">  
                     <a href="https://simpleicons.org/" target="_blank">
                         <img src="icons/front/javascript-color.svg" height="50"/>
@@ -51,7 +51,7 @@
         </tr>
         <tr>
              <td>
-                <h3 align="center">Server/DB</h3>        
+                <h3 align="center" style="color: black; margin-top: 0px">Server/DB</h3>        
                 <div align="center" dir="auto">  
                    <a href="https://simpleicons.org/" target="_blank">
                         <img src="icons/server_DB/linux-color.svg" height="50"/>
@@ -68,7 +68,7 @@
                 </div>
             </td>  
             <td>
-                <h3 align="center">Tool</h3>        
+                <h3 align="center" style="color: black; margin-top: 0px">Tool</h3>        
                 <div align="center" dir="auto">  
                     <a href="https://simpleicons.org/" target="_blank">
                         <img src="icons/tool/intellijidea-color.svg" height="50"/>
