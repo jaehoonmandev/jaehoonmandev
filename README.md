@@ -13,7 +13,7 @@
     <img src="https://img.shields.io/badge/GithubPages-222222?style=flat&logo=githubpages&logoColor=FFFFFF"/>
 </a>
 
-### Skill 💪
+### Skills 💪
 <table >
     <tbody style="background-color: white">
         <tr>
