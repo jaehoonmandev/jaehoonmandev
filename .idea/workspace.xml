@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="ad4e130f-b9fa-443f-b9a9-b9600b27c0cc" name="Changes" comment="1. 아이콘 추가 및 스타일 수정." />
+    <list default="true" id="ad4e130f-b9fa-443f-b9a9-b9600b27c0cc" name="Changes" comment="1. 아이콘 추가 및 스타일 수정.">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -26,11 +32,14 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "customColor": "",
-  "associatedIndex": 8
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 8
+}</component>
   <component name="ProjectId" id="2TbrFU42KgDnSwEGoViCQ48TBKQ" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -41,15 +50,19 @@
   "keyToString": {
     "WebServerToolWindowFactoryState": "false",
     "last_opened_file_path": "/Users/jaehoonpark/Desktop/project/wido1593",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
     "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/icons/tool" />
       <recent name="$PROJECT_DIR$/icons/server_DB" />
       <recent name="$PROJECT_DIR$/icons/front" />
-      <recent name="$PROJECT_DIR$/icons/tool" />
       <recent name="$PROJECT_DIR$/icons/server" />
       <recent name="$PROJECT_DIR$/icons/DB" />
     </key>
@@ -64,7 +77,8 @@
       <updated>1691322517877</updated>
       <workItem from="1691322519302" duration="8511000" />
       <workItem from="1691383947079" duration="7750000" />
-      <workItem from="1701450219419" duration="64000" />
+      <workItem from="1701450219419" duration="128000" />
+      <workItem from="1704436736221" duration="2505000" />
     </task>
     <task id="LOCAL-00001" summary="1. 아이콘 추가 및 스타일 수정.">
       <created>1691383719383</created>
@@ -87,7 +101,15 @@
       <option name="project" value="LOCAL" />
       <updated>1691391354344</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="1. 아이콘 추가 및 스타일 수정.">
+      <option name="closed" value="true" />
+      <created>1701450291252</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1701450291252</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -158,9 +180,9 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="1. 아이콘 추가 및 스타일 수정." />
     <MESSAGE value="1. 불필요한 파일 제거" />
     <MESSAGE value="1. Skill 항목 수정" />
-    <option name="LAST_COMMIT_MESSAGE" value="1. Skill 항목 수정" />
+    <MESSAGE value="1. 아이콘 추가 및 스타일 수정." />
+    <option name="LAST_COMMIT_MESSAGE" value="1. 아이콘 추가 및 스타일 수정." />
   </component>
 </project>
