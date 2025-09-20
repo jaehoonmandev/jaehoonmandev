@@ -1,102 +1,33 @@
 ### echo "Hi👋 I'm jaehoonman" 
 
-단지 기능만을 구현하는 것이 아닌 만족할 수 있는 개발을 위해 고민하는 백엔드 개발자입니다.  
+단순한 기능 구현을 넘어, 사용자에게 만족을 줄 수 있는 **효과적인 개발**을 위해 끊임없이 고민합니다. 
 
-문제 해결과 협업을 통해 효과적인 솔루션을 제공하는 것을 목표로 삼고 있습니다.
+**문제 해결 능력**과 **원활한 협업**을 바탕으로 프로젝트의 가치를 높이는 것을 목표로 삼고 있습니다.
 
 
-### Personal Page📝
-<a href="https://jaehoonman.tistory.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Tistory-FF8224?style=flat&logo=tistory&logoColor=000000"/>
-</a>
+### My Pages 📌
 
-<a href="https://jaehoonmandev.github.io/" target="_blank">
-    <img src="https://img.shields.io/badge/GithubPages-222222?style=flat&logo=githubpages&logoColor=FFFFFF"/>
-</a>
+<p align="left">
+    <a href="https://jaehoonmandev.github.io/" target="_blank">
+        <img src="https://img.shields.io/badge/GitHub_Pages-222222?style=for-the-badge&logo=github&logoColor=white" />
+    </a>
+    <a href="https://jaehoonman.tistory.com/" target="_blank">
+        <img src="https://img.shields.io/badge/Tech_Blog-FF8224?style=for-the-badge&logo=tistory&logoColor=white" />
+    </a>
+</p>
 
 ### Skills 💪
-<table >
-    <tbody style="background-color: white">
-        <tr>
-            <td>
-                <h3 align="center" style="color: black; margin-top: 0px">Backend</h3>        
-                <div align="center" style="background-color: rgba(234, 234, 234, 0.1);"> 
-                    <a href="https://www.flaticon.com/kr/free-icons/" title="자바 아이콘" target="_blank">
-                        <img src="icons/back/java.png" height="50"/>
-                    </a>
-                    <a href="https://simpleicons.org/" target="_blank">
-                        <img src="icons/back/spring.svg" height="50"/>
-                    </a>
-                    <a href="https://simpleicons.org/" target="_blank">
-                        <img src="icons/back/springboot.svg" height="50"/>
-                    </a>
-                </div>
-            </td>      
-            <td>
-                <h3 align="center" style="color: black; margin-top: 0px">Frontend</h3>        
-                <div align="center" dir="auto">  
-                    <a href="https://simpleicons.org/" target="_blank">
-                        <img src="icons/front/javascript-color.svg" height="50"/>
-                    </a>
-                    <a href="https://simpleicons.org/" target="_blank">
-                        <img src="icons/front/jquery-color.svg" height="50"/>
-                    </a>
-                    <a href="https://simpleicons.org/" target="_blank">
-                        <img src="icons/front/html5-color.svg" height="50"/>
-                    </a>
-                    <a href="https://en.m.wikipedia.org/wiki/File:React-icon.svg" target="_blank">
-                        <img src="icons/front/React.png" height="50"/>
-                    </a>
-                    <a href="https://seeklogo.com/vector-logo/394608/next-js" target="_blank">
-                        <img src="icons/front/next-js.png" height="50"/>
-                    </a>
-                    <a href="https://simpleicons.org/" target="_blank">
-                        <img src="icons/front/css3-color.svg" height="50"/>
-                    </a>
-                </div>
-            </td>            
-        </tr>
-        <tr>
-             <td>
-                <h3 align="center" style="color: black; margin-top: 0px">Server/DB</h3>        
-                <div align="center" dir="auto">  
-                   <a href="https://simpleicons.org/" target="_blank">
-                        <img src="icons/server_DB/linux-color.svg" height="50"/>
-                    </a>
-                   <a href="https://simpleicons.org/" target="_blank">
-                        <img src="icons/server_DB/amazonaws-color.svg" height="50"/>
-                    </a>
-                   <a href="https://simpleicons.org/" target="_blank">
-                        <img src="icons/server_DB/mysql-color.svg" height="50"/>
-                    </a>
-                   <a href="https://simpleicons.org/" target="_blank">
-                        <img src="icons/server_DB/postgresql-color.svg" height="50"/>
-                    </a>
-                </div>
-            </td>  
-            <td>
-                <h3 align="center" style="color: black; margin-top: 0px">Tool</h3>        
-                <div align="center" dir="auto">  
-                    <a href="https://simpleicons.org/" target="_blank">
-                        <img src="icons/tool/intellijidea-color.svg" height="50"/>
-                    </a>
-                    <a href="https://simpleicons.org/" target="_blank">
-                        <img src="icons/tool/eclipseide-color.svg" height="50"/>
-                    </a>
-                    <a href="https://simpleicons.org/" target="_blank">
-                        <img src="icons/tool/git-color.svg" height="50"/>
-                    </a>
-                    <a href="https://simpleicons.org/" target="_blank">
-                        <img src="icons/tool/github-color.svg" height="50"/>
-                    </a>
-                    <a href="https://www.pngwing.com/en/free-png-amxda/download" target="_blank">
-                        <img src="icons/tool/Docker.png" height="50"/>
-                    </a>
-                    <a href="https://en.m.wikipedia.org/wiki/File:Figma-logo.svg" target="_blank">
-                        <img src="icons/tool/Figma.png" height="50"/>
-                    </a>
-                </div>
-            </td>
-        </tr>
-    </tbody>
-</table>
+
+| Category | Skills & Tools |
+| :--- | :--- |
+| **Backend** | Java, Spring, Spring Boot |
+| **Frontend** | JavaScript, jQuery, HTML5, CSS3, React, Next.js |
+| **Server/DB** | Linux, AWS, MySQL, PostgreSQL |
+| **Tools** | IntelliJ IDEA, Eclipse, Git, GitHub, Docker, Figma |
+
+---
+
+#### **⭐ 주로 사용하는 기술**
+* **Backend**: **Java**, **Spring Boot**를 활용하여 RESTful API를 설계 및 개발합니다.
+* **Database**: **MySQL**을 기반으로 데이터베이스를 구축하고 쿼리를 최적화한 경험이 있습니다.
+* **Deployment**: **AWS EC2** 환경에서 **Docker**를 활용하여 애플리케이션을 배포합니다.
